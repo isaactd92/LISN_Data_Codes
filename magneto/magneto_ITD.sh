@@ -24,7 +24,7 @@ for TIPO in "${TIPOS[@]}"; do
             continue
         fi
         
-        LOG_FILE="/var/log/magneto_${TIPO}_${FREC}.log"
+        LOG_FILE="/data/dockers-lisn/test/logs/magneto_${TIPO}_${FREC}.log"
         
         echo "Ejecutando para TIPO: $TIPO y FRECUENCIA: $FREC...($(date))"
         
