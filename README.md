@@ -1,4 +1,4 @@
-#  Estaciones Soportadas
+#  Scripts estaciones LISN
 
 En este repositorio se encuentras los scripts utilizados para enviar data almacenada en el servidor de los instrumentos de Magnetómetro, GNSS, Ionosondas y Receptores de Ecos Oblicuos.
 
